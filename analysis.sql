@@ -1,8 +1,8 @@
 /* 
-© 2023 Tushar Aggarwal. All rights reserved. github.com/tushar2704
+© 2025 Gurukrishna. All rights reserved. https://github.com/Gurukrishn
 */
 
---Business Question:
+--Business Questions:
 
 --1)Top-performing industries in terms of sales for a year 2021, and how do their sales compare month-over-month?
 WITH monthly_sales AS (
@@ -414,4 +414,4 @@ WHERE
 
 			
 			
-----------------------------------END----------------------------------
+----------------------------------Ended Queries----------------------------------
