@@ -1,6 +1,6 @@
 -- Active: 1689029778133@@127.0.0.1@5432@retail_sales@retail_sales
 /* 
-© 2023 Tushar Aggarwal. All rights reserved. github.com/tushar2704
+© 2025 Gurukrishna Vadlamudi. All rights reserved. https://github.com/Gurukrishn
 */
 
 
@@ -26,6 +26,9 @@ UPDATE retail_sales SET sales = NULL WHERE sales = 0;
 --Checking for Table
 SELECT * FROM retail_sales LIMIT 50;
 /* 
-© 2023 Tushar Aggarwal. All rights reserved. github.com/tushar2704
+© 2025 Gurukrishna. All rights reserved. https://github.com/Gurukrishn
+
+
+
 -----------------------------------Loading CSV Completed-------------------------------------------
 */
